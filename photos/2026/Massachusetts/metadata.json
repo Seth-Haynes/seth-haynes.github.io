@@ -1,0 +1,178 @@
+{
+  "location": "Boston, Massachusetts",
+  "date": "2026-06",
+  "camera": "Vivitar 335PZDB",
+  "lens": "Vivitar 35-60mm POWER ZOOM FOCUS FREE SYSTEM",
+  "film": "Fujifilm 200",
+  "tags": [
+    "massachusetts",
+    "boston",
+    "plymouth",
+    "architecture",
+    "historic",
+    "city",
+    "travel",
+    "americana",
+    "summer"
+  ],
+  "collections": [
+    "Northeast",
+    "Massachusetts",
+    "Summer 2026",
+    "Fujifilm 200"
+  ],
+
+  "images": {
+    "3fuji200p01.jpg": {
+      "title": "Atrium",
+      "description": "Looking straight up inside 75 State Street. We used the parking garage underneath and I didn't expect it to be so beautiful.",
+      "alt": "The glass-roofed atrium inside 75 State Street viewed from ground level looking upward.",
+      "tags": [
+        "75 state street",
+        "atrium",
+        "architecture",
+        "office",
+        "symmetry",
+        "interior"
+      ]
+    },
+
+    "3fuji200p02.jpg": {
+      "title": "Custom House",
+      "description": "One of those buildings that immediately tells you where you are.",
+      "alt": "Boston's Custom House Tower rising above surrounding historic buildings with American flags in the foreground.",
+      "tags": [
+        "custom house tower",
+        "architecture",
+        "historic",
+        "downtown",
+        "flags"
+      ],
+      "featured": true
+    },
+
+    "3fuji200p03.jpg": {
+      "title": "Park Street",
+      "description": "Last time I was here, I had to save a detective from a mobster.",
+      "alt": "The Park Street subway entrance beside Boston Common with pedestrians entering and leaving the station.",
+      "tags": [
+        "park street",
+        "mbta",
+        "subway",
+        "boston common",
+        "transit",
+        "street",
+        "freedom trail"
+      ],
+      "featured": true
+    },
+
+    "3fuji200p04.jpg": {
+      "title": "Downtown Boston",
+      "description": "A street that somehow felt both historic and modern at the same time.",
+      "alt": "A narrow downtown Boston street lined with historic buildings and the Omni Parker House Hotel.",
+      "tags": [
+        "downtown",
+        "omni parker house",
+        "street",
+        "architecture",
+        "historic"
+      ],
+      "featured": true
+    },
+
+    "3fuji200p05.jpg": {
+      "title": "Old State House",
+      "description": "This building is absolutely beautiful. I wondered what it was like to look down from the tower.",
+      "alt": "The Old State House in Boston viewed from a low angle against a bright overcast sky.",
+      "tags": [
+        "old state house",
+        "historic",
+        "architecture",
+        "government",
+        "landmark",
+        "freedom trail"
+      ]
+    },
+    "3fuji200p13.jpg": {
+        "title": "Mayflower II",
+        "description": "I've wanted to see this ship for years. It somehow looked even more impressive in person.",
+        "alt": "The Mayflower II replica docked in Plymouth Harbor with its tall masts silhouetted against the evening sky.",
+        "tags": [
+            "mayflower ii",
+            "plymouth",
+            "ship",
+            "history",
+            "harbor",
+            "maritime"
+        ],
+      "featured": true
+    },
+    "3fuji200p14.jpg": {
+        "title": "1620",
+        "description": "It's smaller in person, but that doesn't make it any less important.",
+        "alt": "Plymouth Rock engraved with the year 1620 beneath its protective monument.",
+        "tags": [
+            "plymouth rock",
+            "1620",
+            "history",
+            "pilgrims",
+            "landmark"
+        ]
+    },
+    "3fuji200p07.jpg": {
+      "title": "Scituate Light",
+      "description": "This lighthouse was beautiful, it makes sense that there were people taking bridal photos there.",
+      "alt": "Scituate Lighthouse standing on Cedar Point with an American flag in the foreground at sunset.",
+      "tags": [
+        "scituate lighthouse",
+        "lighthouse",
+        "landmark",
+        "coast",
+        "sunset"
+      ],
+      "featured": true
+    },
+
+    "3fuji200p08.jpg": {
+      "title": "Across the Harbor",
+      "description": "The water was almost perfectly still, but it sure was windy.",
+      "alt": "A calm harbor in Scituate with houses lining the opposite shore beneath a colorful evening sky.",
+      "tags": [
+        "harbor",
+        "water",
+        "shoreline",
+        "houses",
+        "sunset",
+        "coast"
+      ]
+    },
+
+    "3fuji200p09.jpg": {
+      "title": "Waterfront Property",
+      "description": "I'd love to just sit here for hours and watch the water.",
+      "alt": "A waterfront home overlooking a quiet harbor filled with sailboats in Old Orchard Beach.",
+      "tags": [
+        "harbor",
+        "waterfront",
+        "boats",
+        "coast",
+        "residential"
+      ]
+    },
+
+    "3fuji200p10.jpg": {
+      "title": "Scituate Harbor",
+      "description": "A different perspective on the lighthouse as we headed back.",
+      "alt": "Scituate Lighthouse seen across calm water with sailboats in the foreground during sunset.",
+      "tags": [
+        "cape neddick",
+        "nubble lighthouse",
+        "lighthouse",
+        "boats",
+        "harbor",
+        "sunset"
+      ]
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+    "location": "Benton, Arkansas",
+    "date": "2026-07-30",
+    "camera": "Nikon D5100",
+    "lens": "AF-S DX NIKKOR 18-55mm",
+    "tags": ["riverside", "arkansas", "documentary", "americana"],
+    "collections": ["Small Town Arkansas", "Riverside Grocery", "Summer 2026"],
+
+    "images": {
+        "DSC_0019.jpg": {
+            "title": "River Crossing",
+            "description": "I almost fell down a steep hill trying to get this. It was worth it. 5:37 PM",
+            "alt": "A person crossing a shallow creek surrounded by dense green trees and gravel bars.",
+            "tags": ["isolation", "saline river", "nature"]
+        },
+        "DSC_0024.jpg": {
+            "title": "Quiet Bend",
+            "description": "I waited until a car crossed the bridge. It looked empty without one. 5:41 PM",
+            "alt": "Calm river with a bridge in the distance and a lone person standing near the far shoreline.",
+            "tags": ["nature", "saline river", "framing"],
+            "featured": true
+        },
+        "DSC_0025.jpg": {
+            "title": "Deck View",
+            "description": "By the time karaoke starts, some of these chairs are gone. 5:41 PM",
+            "alt": "Wooden deck with colorful chairs overlooking a grassy riverbank and trees.",
+            "tags": ["deck", "framing", "nature"]
+        },
+        "DSC_0049.jpg": {
+            "title": "Riverside at Dusk",
+            "description": "Maybe you can't tell by the photo, but Riverside Grocery has amazing catfish. 5:41 PM",
+            "alt": "Gas station canopy at dusk with illuminated lights and parked vehicles beneath.",
+            "tags": ["canopy", "gas pump", "gas station"]
+        },
+        "DSC_0051.jpg": {
+            "title": "Self Service",
+            "description": "I've never understood why this is the only pump that isn't under the canopy. 8:02 PM",
+            "alt": "Single vintage-style gas pump standing alone in a nearly empty parking lot at dusk.",
+            "tags": ["gas pump", "roadside", "night", "isolation", "liminal"]
+        },
+        "DSC_0071.jpg": {
+            "title": "Sunset Over Highway Five",
+            "description": "I ran across a busy highway for a shot from the other side, and then it was out of focus. But I think this one looked better anyways. 8:18 PM",
+            "alt": "Highway bridge stretching into the distance beneath a colorful sunset sky.",
+            "tags": ["highway", "traffic", "motion", "sunset"],
+            "featured": true
+        },
+        "DSC_0072.jpg": {
+            "title": "Thursday Karaoke",
+            "description": "This guy really knows how to get the crowd going. 8:25 PM",
+            "alt": "Karaoke singer performing on stage while the DJ and audience watch.",
+            "tags": ["karaoke", "music", "social", "night", "crowd"]
+        },
+        "DSC_0079.jpg": {
+            "title": "In the Spotlight",
+            "description": "She really knows what she's doing. Am I saying that because she's good, or because she's my mom? Both. 8:31 PM",
+            "alt": "Woman singing into a microphone under colorful stage lighting during an outdoor karaoke event.",
+            "tags": ["karaoke", "music", "night", "social", "singer"]
+        },
+        "DSC_0093.jpg": {
+            "title": "Gas Prices",
+            "description": "I can't imagine how long this sign has been standing here. 8:39 PM",
+            "alt": "Illuminated roadside business sign beside a dark highway at night.",
+            "tags": ["gas station", "signage", "roadside", "night", "liminal"]
+        }
+    }
+}

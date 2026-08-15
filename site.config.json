@@ -1,0 +1,51 @@
+{
+  "site": {
+    "name": "Seth Haynes",
+    "shortName": "Seth",
+    "title": "Seth Haynes | Photographs",
+    "description": "Photographs of streets, buildings, bridges, signs, weather, and everyday places in Central Arkansas and beyond.",
+    "region": "Central Arkansas",
+    "siteUrl": "",
+    "basePath": ""
+  },
+  "homepage": {
+    "featuredLimit": 15,
+    "recentLimit": 21,
+    "introduction": "I photograph buildings, roads, signs, bridges, weather, and the people who use them. Most of the work starts with walking around and waiting for the light to change."
+  },
+  "images": {
+    "widths": [480, 960, 1600, 2400],
+    "formats": ["webp", "jpeg"],
+    "quality": {
+      "avif": 55,
+      "webp": 76,
+      "jpeg": 82
+    },
+    "preserveOriginals": false
+  },
+  "about": {
+    "heading": "Hi, I'm Seth.",
+    "intro": "I photograph seemingly ordinary things that often blend into the background: streets, buildings, nature, weather, and people.",
+    "paragraphs": [
+      "It takes real attention to detail. I start by walking a location a few times, paying attention to the light, the pace of the street, and the small changes that separate a public landmark from the life around it. The camera comes out after the place starts to make sense.",
+      "I am interested in familiar subjects because they hold a kind of secret beauty. A commercial building, a facade, or a nearly empty intersection can often describe a community more than its most notable landmarks.",
+      "I enjoy working with blue hour, especially being used to late nights. Signs light up, windows hold detail, and ordinary buildings briefly show both their public face and their interior use.",
+      "The aim is an accurate record: composed, but not polished into fiction, attentive to history without turning the present into nostalgia."
+    ]
+  },
+  "contact": {
+    "email": "seth.haynes2009@gmail.com",
+    "instagramHandle": "seth_a_haynes",
+    "instagramUrl": "https://instagram.com/seth_a_haynes"
+  },
+  "collectionDescriptions": {
+    "Small Town Arkansas": "The streets, buildings, and people of small towns in Central Arkansas.",
+    "Downtown Benton": "One of my favorite places to be and photograph.",
+    "Riverside Grocery": "I come here every Thursday for karaoke. Coincidentally, it's a great place to photograph the Saline River and the surrounding area.",
+    "Summer 2026": "Photos taken in Summer 2026.",
+    "New York City": "One of my favorite vacation spots. I hope to come back here soon.",
+    "Fujifilm 200": "Photos shot on Fujifilm 200, my film of choice before switching to Kodak.",
+    "Massachusetts": "I've been wanting to come here for years, and I'm glad I finally got the chance.",
+    "Maine": "The furthest northeast I've ever been."
+  }
+}

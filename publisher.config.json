@@ -1,0 +1,26 @@
+{
+  "mastersDir": "../Masters",
+  "outputDir": "photos",
+  "cacheDir": ".cache/publisher",
+  "image": {
+    "longEdge": 2200,
+    "jpegQuality": 84,
+    "mozjpeg": true,
+    "stripMetadata": true,
+    "neverUpscale": true,
+    "sourceExtensions": [".jpg", ".jpeg", ".png", ".tif", ".tiff", ".webp"]
+  },
+  "watch": {
+    "stabilityMs": 2500,
+    "pollIntervalMs": 250,
+    "buildAfterPublish": true,
+    "buildDebounceMs": 3000,
+    "concurrency": 2,
+    "retryAttempts": 5,
+    "retryDelayMs": 500
+  },
+  "safety": {
+    "allowMastersInsideRepository": false,
+    "deleteOrphans": false
+  }
+}

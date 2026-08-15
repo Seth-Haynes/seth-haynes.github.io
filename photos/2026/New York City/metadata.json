@@ -1,0 +1,130 @@
+{
+  "location": "New York City, New York",
+  "date": "2026-06",
+  "camera": "Vivitar 335PZDB",
+  "lens": "Vivitar 35-60mm POWER ZOOM FOCUS FREE SYSTEM",
+  "filmStock": "Fujifilm 200",
+  "tags": [
+    "new york city",
+    "travel",
+    "architecture",
+    "cityscape",
+    "summer",
+    "film"
+  ],
+  "collections": [
+    "Northeast",
+    "New York City",
+    "Summer 2026",
+    "Fujifilm 200"
+  ],
+
+  "images": {
+    "2fuji200p02.jpg": {
+      "title": "Garden Court",
+      "description": "I honestly didn't expect to see something like this in here. Somebody must have put a lot of time into it.",
+      "alt": "An indoor garden with fountains and flower displays inside American Dream mall.",
+      "tags": ["american dream", "interior", "garden", "flowers", "fountain"]
+    },
+
+    "2fuji200p05.jpg": {
+      "title": "One World",
+      "description": "The clouds reflected perfectly off the glass. Sometimes you just need to look up.",
+      "alt": "One World Trade Center photographed from directly below against a blue sky.",
+      "tags": ["one world trade center", "architecture", "reflection", "sky", "clouds"]
+    },
+
+    "2fuji200p06.jpg": {
+      "title": "Lower Manhattan",
+      "description": "It's hard to walk around downtown without looking up every few seconds.",
+      "alt": "One World Trade Center rises above surrounding buildings in Lower Manhattan.",
+      "tags": ["one world trade center", "lower manhattan", "architecture", "street"]
+    },
+
+    "2fuji200p08.jpg": {
+      "title": "Away From Brooklyn",
+      "description": "This bridge has probably been photographed millions of times, but I still ended up with something unique.",
+      "alt": "The Brooklyn Bridge viewed from the roadway approach with Lower Manhattan in the background.",
+      "tags": ["brooklyn bridge", "bridge", "road", "downtown", "traffic"],
+      "featured": true
+    },
+
+    "2fuji200p09.jpg": {
+      "title": "Approaching Manhattan",
+      "description": "I was always mesmerized by the Manhattan skyline. I photographed it almost every time I saw it.",
+      "alt": "The Manhattan skyline viewed from a highway with One World Trade Center visible in the distance.",
+      "tags": ["skyline", "manhattan", "one world trade center", "highway", "call box"]
+    },
+
+    "2fuji200p12.jpg": {
+      "title": "The City That Never Sleeps",
+      "description": "I remember it being very late and it was still so bright. There were people everywhere.",
+      "alt": "Times Square at night with illuminated billboards and traffic.",
+      "tags": ["times square", "night", "lights", "traffic", "billboards"],
+      "featured": true
+    },
+
+    "2fuji200p14.jpg": {
+      "title": "Evening Skyline",
+      "description": "The sun was dropping behind us by the time we crossed the river.",
+      "alt": "The Manhattan skyline at sunset viewed across the water with bridges in the foreground.",
+      "tags": ["skyline", "sunset", "bridge", "river", "silhouette"]
+    },
+
+    "2fuji200p15.jpg": {
+      "title": "High Bridge",
+      "description": "I almost missed this one while we were driving. I'm very glad I didn't.",
+      "alt": "The High Bridge spans the Harlem River with the Manhattan skyline visible beyond.",
+      "tags": ["high bridge", "harlem river", "bridge", "skyline"]
+    },
+
+    "2fuji200p16.jpg": {
+      "title": "Steel Frame",
+      "description": "Something you may notice is that a lot of my photos have motion blur. Is it technically correct? No. But does it convey something better than a perfectly sharp image can? Occasionally.",
+      "alt": "The Manhattan skyline seen through the steel beams of a bridge while in motion.",
+      "tags": ["motion", "bridge", "skyline", "travel"]
+    },
+
+    "2fuji200p18.jpg": {
+      "title": "City Upon a Hill",
+      "description": "The skyline keeps finding ways to appear, even when you think you've left it behind.",
+      "alt": "The Manhattan skyline viewed across marshland from New Jersey.",
+      "tags": ["new jersey", "wetlands", "skyline", "distance"],
+      "featured": true
+    },
+
+    "2fuji200p20.jpg": {
+      "title": "Skyline of New York City in the Evening",
+      "description": "This was one of the first times I came into New York. I just can't get enough of the skyline.",
+      "alt": "A distant view of the Manhattan skyline from a highway.",
+      "tags": ["skyline", "highway", "travel", "distance"]
+    },
+
+    "2fuji200p21.jpg": {
+      "title": "Final Approach",
+      "description": "I looked up at exactly the right time.",
+      "alt": "An airliner descends toward Newark Liberty International Airport above utility poles and power lines.",
+      "tags": ["airplane", "newark airport", "aviation", "power lines", "street"]
+    },
+
+    "2fuji200p26.jpg": {
+      "title": "American Dream",
+      "description": "This was shortly before we arrived quite late in the afternoon. I was surprised that we had left so late, it was only a few hours until they closed.",
+      "alt": "The exterior of American Dream mall seen from a moving vehicle.",
+      "tags": ["american dream", "new jersey", "travel", "motion"]
+    },
+    "3fuji200p28.jpg": {
+      "title": "Refinery",
+      "description": "The skyline wasn't the last thing we saw before leaving New Jersey.",
+      "alt": "An oil refinery illuminated against the evening sky beside a highway in New Jersey.",
+      "tags": [
+          "new jersey",
+          "refinery",
+          "industry",
+          "evening",
+          "highway",
+          "industrial"
+      ]
+    }
+  }
+}

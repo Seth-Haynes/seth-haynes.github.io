@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.cache/
+Masters/
+.DS_Store
+*.log
+*.afphoto
+*.tif
+*.tiff

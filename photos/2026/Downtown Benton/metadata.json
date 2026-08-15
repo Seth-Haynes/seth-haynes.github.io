@@ -1,0 +1,134 @@
+{
+    "location": "Benton, Arkansas",
+    "date": "2026-08-01",
+    "camera": "Nikon D5100",
+    "lens": "AF-S DX NIKKOR 18-55mm",
+    "tags": ["architecture", "americana", "small town", "overcast", "downtown"],
+    "collections": ["Small Town Arkansas", "Downtown Benton", "Summer 2026"],
+
+    "images": {
+        "DSC_0149.jpg": {
+            "title": "Down Main Street",
+            "description": "I had to take the crosswalk six times to get this photo. 8:12 PM",
+            "alt": "A view down Main Street from the northern crosswalk at the intersection of Main Street and South Street.",
+            "tags": ["isolation", "sunset"]
+        },
+        "DSC_0152.jpg": {
+            "title": "Rising",
+            "description": "I almost walked past it, but I just couldn't pass it up. 8:13 PM",
+            "alt": "A view of the Saline County Courthouse from Bart Owens & Randy Mooney Memorial Park.",
+            "tags": ["clocktower", "saline county courthouse", "ghost sign", "neon"],
+            "featured": true
+        },
+        "DSC_0155.jpg": {
+            "title": "South Face",
+            "description": "Not the postcard view, but perhaps the most honest one. 8:19 PM",
+            "alt": "A view of the southern side of the Saline County Courthouse from Sevier Street.",
+            "tags": ["clocktower", "saline county courthouse", "flags", "nature"]
+        },
+        "DSC_0157.jpg": {
+            "title": "Centered",
+            "description": "The standard 'Greetings from Benton!' shot. 8:20 PM",
+            "alt": "A centered view of the clocktower from the intersection of Main Street and Sevier Street.",
+            "tags": ["clocktower", "saline county courthouse", "flags", "war memorial"]
+        },
+        "DSC_0160.jpg": {
+            "title": "Looking Up",
+            "description": "Standing here made the courthouse seem much taller than it really is. 8:21 PM",
+            "alt": "A view of the clocktower looking up from the war memorial, with the flags centered and visible.",
+            "tags": ["clocktower", "saline county courthouse", "flags", "patriotic"]
+        },
+        "DSC_0161.jpg": {
+            "title": "Allied Glass",
+            "description": "I always thought that sign was painted on for a business that left long ago. 8:22 PM",
+            "alt": "A car passes through the intersection of Main Street and Sevier Street, with the large Allied Glass sign across the street beneath an overcast evening sky.",
+            "tags": ["intersection", "traffic", "motion", "commercial"]
+        },
+        "DSC_0170.jpg": {
+            "title": "Last Light",
+            "description": "One last break in the clouds before the light disappeared. 8:24 PM",
+            "alt": "A work van waits beneath a glowing gap in the evening clouds at a downtown intersection.",
+            "tags": ["sunset", "clouds", "traffic", "sky"]
+        },
+        "DSC_0171.jpg": {
+            "title": "Market Street",
+            "description": "Downtown beginning to wake up for the night. 8:27 PM",
+            "alt": "The Royal Theatre marquee glows over Market Street as dusk settles across downtown Benton.",
+            "tags": ["royal theatre", "theatre", "neon", "night"]
+        },
+        "DSC_0182.jpg": {
+            "title": "United States Post Office",
+            "description": "I wish they had kept using this as the post office. 8:38 PM",
+            "alt": "The historic United States Post Office building illuminated against a blue evening sky.",
+            "tags": ["architecture", "post office", "government", "twilight"]
+        },
+        "DSC_0192.jpg": {
+            "title": "After Dark",
+            "description": "The courthouse looked entirely different once the sun disappeared. 8:41 PM",
+            "alt": "The Saline County Courthouse clocktower viewed from Main Street after nightfall.",
+            "tags": ["courthouse", "saline county courthouse", "clocktower", "night"]
+        },
+        "DSC_0203.jpg": {
+            "title": "Red Eyes",
+            "description": "That neon clock is a little hard to read from there, even if it was accurate. 8:43 PM",
+            "alt": "The glowing red neon street clock seen across downtown Benton at night.",
+            "tags": ["neon", "clock", "night"]
+        },
+        "DSC_0206.jpg": {
+            "title": "Passing Through",
+            "description": "It was late, but there were still some people out. 8:43 PM",
+            "alt": "A vehicle passes beneath streetlights with the courthouse visible in the background.",
+            "tags": ["traffic", "courthouse", "saline county courthouse", "night"]
+        },
+        "DSC_0213.jpg": {
+            "title": "Intersection",
+            "description": "Since it was dark out and there were very few cars, I actually got in the street for this one. I think it was worth it instead of having to use the crosswalk six times. 8:44 PM",
+            "alt": "A nighttime view across the intersection of Main Street and Sevier Street.",
+            "tags": ["intersection", "night", "main street"],
+            "featured": true
+        },
+        "DSC_0214.jpg": {
+            "title": "Outline",
+            "description": "This was the first time I saw this building with the new sign up after they switched from RE/MAX. 8:44 PM",
+            "alt": "The lpt realty building outlined in patriotic lights beneath a cloudy night sky.",
+            "tags": ["lpt realty", "lights", "night"]
+        },
+        "DSC_0222.jpg": {
+            "title": "Lighthouse",
+            "description": "From here, it looks like the streetlight is brighter than the truck's headlights. 8:48 PM",
+            "alt": "A bright downtown streetlight illuminating South Street at night.",
+            "tags": ["streetlight", "night", "downtown"]
+        },
+        "DSC_0248.jpg": {
+            "title": "Around the Corner",
+            "description": "I've always had a fascination with the Royal Theatre. It's one of my favorite subjects to photograph. 8:55 PM",
+            "alt": "The neon-lit Royal Theatre is seen across Main Street, framed by a brick wall in the foreground.",
+            "tags": ["royal theatre", "neon", "night", "framing", "theatre"],
+            "featured": true
+        },
+        "DSC_0251.jpg": {
+            "title": "Steeple",
+            "description": "Looking north on what's easily my favorite street in downtown Benton: Market Street. 8:56 PM",
+            "alt": "A nighttime view west along Market Street with storefronts and a church steeple.",
+            "tags": ["historic district", "church", "night"]
+        },
+        "DSC_0260.jpg": {
+            "title": "Twin Towers",
+            "description": "One of the first things you see coming into downtown from Military, and one of the last you see leaving downtown via Military. 9:18 PM",
+            "alt": "The Benton Municipal Waterworks water towers illuminated against the night sky.",
+            "tags": ["water tower", "landmark", "night"]
+        },
+        "DSC_0263.jpg": {
+            "title": "Vacancy",
+            "description": "This CVS has been closed for years, just waiting for the next tenant. Isn't it kind of ironic that the only visible reflection is from a competitor? 9:19 PM",
+            "alt": "An empty CVS viewed through large storefront windows at night.",
+            "tags": ["empty", "storefront", "interior", "liminal", "isolation"]
+        },
+        "DSC_0273.jpg": {
+            "title": "Commercial Strip",
+            "description": "The familiar glow of late-night Benton. I used to love driving down here with my parents as a kid. 9:24 PM",
+            "alt": "The Wendy's sign and surrounding businesses illuminated along Military Road at night.",
+            "tags": ["commercial", "wendy's", "lights", "night"]
+        }
+    }
+}

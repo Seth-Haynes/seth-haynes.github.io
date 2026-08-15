@@ -1,0 +1,71 @@
+{
+  "location": "Old Orchard Beach, Maine",
+  "date": "2026-06",
+  "camera": "Vivitar 335PZDB",
+  "lens": "Vivitar 35-60mm POWER ZOOM FOCUS FREE SYSTEM",
+  "film": "Fujifilm 200",
+  "tags": [
+    "maine",
+    "old orchard beach",
+    "coast",
+    "atlantic",
+    "lighthouse",
+    "harbor",
+    "travel",
+    "summer",
+    "new england"
+  ],
+  "collections": [
+    "Northeast",
+    "Maine",
+    "Summer 2026",
+    "Fujifilm 200"
+  ],
+
+  "images": {
+
+    "3fuji200p15.jpg": {
+      "title": "Grand Ave",
+      "description": "A quiet afternoon drive.",
+      "alt": "A street lined with hotels, restaurants, and shops in Old Orchard Beach, Maine.",
+      "tags": [
+        "old orchard beach",
+        "street",
+        "downtown",
+        "shops",
+        "travel",
+        "americana"
+      ]
+    },
+
+    "3fuji200p16.jpg": {
+      "title": "The Gull",
+      "description": "I couldn't resist stopping for the sign. Greetings from The Gull Motel!",
+      "alt": "The Gull Motel in Old Orchard Beach with its retro roadside sign illuminated by the evening sun.",
+      "tags": [
+        "the gull motel",
+        "motel",
+        "roadside",
+        "retro",
+        "signage",
+        "travel"
+      ],
+      "featured": true
+    },
+
+    "3fuji200p18.jpg": {
+      "title": "Toward the Atlantic",
+      "description": "I can't remember where we were going when I took this, but I remember passing it the first time and thinking that I should have had my camera out.",
+      "alt": "A narrow tidal channel opening into the Atlantic Ocean beneath a bright summer sky.",
+      "tags": [
+        "atlantic ocean",
+        "tidal inlet",
+        "coast",
+        "water",
+        "landscape",
+        "summer"
+      ],
+      "featured": true
+    }
+  }
+}
