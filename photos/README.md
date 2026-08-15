@@ -16,5 +16,3 @@ photos/
 The build accepts `.jpg`, `.jpeg`, `.png`, and `.webp` files. JPEG is recommended for camera originals.
 
 `metadata.json` can describe one image, provide defaults for every image in the folder, or include an `images` object with per-file overrides. See `METADATA.md` in the project root.
-
-The included photographs are demonstration content. Delete their year folders when Seth's photographs are ready.
