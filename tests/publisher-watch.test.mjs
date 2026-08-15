@@ -114,7 +114,12 @@ try {
       },
     },
   }, null, 2)}\n`, "utf8");
-  await waitFor(async () => JSON.parse(await readFile(metadataPath, "utf8")).images["frame.jpg"].title === "Metadata from Masters");
+  await waitFor(async () => {
+    const outputMetadata = JSON.parse(await readFile(metadataPath, "utf8"));
+    const sourceMetadata = JSON.parse(await readFile(masterMetadataPath, "utf8"));
+    return outputMetadata.images["frame.jpg"].title === "Metadata from Masters"
+      && sourceMetadata.images["initial.jpg"]?.title === "";
+  });
   assert.equal(JSON.parse(await readFile(masterMetadataPath, "utf8")).images["initial.jpg"].title, "");
 
   const firstHash = await hashFile(outputPath);

@@ -272,7 +272,7 @@ function validateFilename(filename, metadataPath) {
   return filename;
 }
 
-export async function ensureMetadataEntries(metadataPath, filenames) {
+async function ensureMetadataEntriesWithSource(metadataPath, filenames) {
   const uniqueFilenames = [...new Map(
     filenames.map((filename) => {
       const valid = validateFilename(filename, metadataPath);
@@ -306,6 +306,7 @@ export async function ensureMetadataEntries(metadataPath, filenames) {
 
   if (added.length || renamed.length) await atomicWriteFile(metadataPath, nextSource);
   return {
+    source: nextSource,
     metadataPath,
     created: created && added.length > 0,
     changed: added.length > 0 || renamed.length > 0,
@@ -314,13 +315,46 @@ export async function ensureMetadataEntries(metadataPath, filenames) {
   };
 }
 
+export async function ensureMetadataEntries(metadataPath, filenames) {
+  const { source: _source, ...result } = await ensureMetadataEntriesWithSource(metadataPath, filenames);
+  return result;
+}
+
 export async function synchronizeMetadataEntries(sourceMetadataPath, outputMetadataPath, filenames) {
-  const sourceUpdate = await ensureMetadataEntries(sourceMetadataPath, filenames);
+  const sourceUpdate = {
+    metadataPath: sourceMetadataPath,
+    created: false,
+    changed: false,
+    added: [],
+    renamed: [],
+  };
   let source;
-  try {
-    source = await readFile(sourceMetadataPath, "utf8");
-  } catch (error) {
-    throw metadataError(sourceMetadataPath, error.message, error);
+  for (let attempt = 0; attempt < 3; attempt += 1) {
+    const ensured = await ensureMetadataEntriesWithSource(sourceMetadataPath, filenames);
+    sourceUpdate.created ||= ensured.created;
+    sourceUpdate.changed ||= ensured.changed;
+    for (const filename of ensured.added) {
+      if (!sourceUpdate.added.includes(filename)) sourceUpdate.added.push(filename);
+    }
+    for (const renamed of ensured.renamed) {
+      if (!sourceUpdate.renamed.some((item) => item.from === renamed.from && item.to === renamed.to)) {
+        sourceUpdate.renamed.push(renamed);
+      }
+    }
+
+    let current;
+    try {
+      current = await readFile(sourceMetadataPath, "utf8");
+    } catch (error) {
+      throw metadataError(sourceMetadataPath, error.message, error);
+    }
+    if (current === ensured.source) {
+      source = current;
+      break;
+    }
+  }
+  if (source === undefined) {
+    throw metadataError(sourceMetadataPath, "the file kept changing while it was synchronized; try again");
   }
 
   let output;
